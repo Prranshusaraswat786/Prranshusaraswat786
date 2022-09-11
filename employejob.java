@@ -21,9 +21,9 @@ public class employejob {
             } else if (sex == "male" && age > 40) {
                 System.out.println("work in Urban area");
             }
-            // else {
-            // System.out.println("ERROR");
-            // }
+            else {
+            System.out.println("ERROR");
+            }
         }
     }
 }
